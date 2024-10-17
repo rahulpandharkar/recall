@@ -4,3 +4,4 @@ Ps - make sure it's working :)
 Run the installation script (prerequisites.sh) [Installs cmake and python dependencies] - Only works on Debian
 On other distributions or Windows, do it manually :) 
 
+Run recall.py
