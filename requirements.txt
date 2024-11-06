@@ -1,3 +1,5 @@
-opencv-python
+opencv-python-headless  # For OpenCV without GUI
 face-recognition
 numpy
+pyttsx3
+SpeechRecognition
